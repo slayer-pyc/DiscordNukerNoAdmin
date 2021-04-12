@@ -11,7 +11,7 @@ How To Install
 - `pip install requests`
 - `pip install selenium`
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
-  PUT THESE COMMANDS IN CMD
+PUT THESE COMMANDS IN CMD
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^  
 
 - Run the python file once before making the bot
